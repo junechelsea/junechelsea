@@ -1,8 +1,7 @@
 # Hi, I'm junechelsea 👋
 
 [![Follow on GitHub](https://img.shields.io/github/followers/junechelsea?label=Follow&style=social)](https://github.com/junechelsea)
-[![Latest release](https://img.shields.io/github/v/release/junechelsea?label=Latest%20release&style=flat)](https://github.com/junechelsea?tab=repositories)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.example)](https://your-website.example)
+
 
 ## About me
 Hi — I'm junechelsea. I'm a developer who enjoys building things with code and learning new tools.
